@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Dewna Udaththapola
 
-<!--
-**dewna-u/dewna-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate software engineering student at SLIIT, Sri Lanka, passionate about developing efficient and scalable software solutions. I enjoy working on Android and web development projects that create meaningful impact.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Languages:** Java, Kotlin, C, JavaScript  
+- **Web Technologies:** React, HTML, CSS, JSP, Node.js, Express.js  
+- **Mobile Development:** Android Studio, Jetpack Compose  
+- **Databases:** MySQL, MongoDB  
+- **Tools & Platforms:** Git, GitHub, VS Code, Firebase, Figma
+
+---
+
+## 📊 GitHub Stats
+
+![Dewna's GitHub stats](https://github-readme-stats.vercel.app/api?username=dewna-u&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: dewnaudaththapola@gmail.com   
+- 🌐 Portfolio: https://dewna.me/
+
+---
+
+Thank you for visiting my profile. I’m always eager to connect and collaborate on exciting projects.
